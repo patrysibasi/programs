@@ -3,7 +3,7 @@ import re
 from datetime import date
 
 '''
-Program was design as tool to determine applicant credit score and, if all requariments were met, to present available mortgage ammount.
+Program was design as tool to determine applicant credit score and, if all requariments are met, to present available mortgage ammount.
 '''
 
 contract_list = ["contract of employment", "mandate contract", "contract of enterprise", "b2b contract", "own company", "none"]
