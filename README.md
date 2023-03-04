@@ -1,2 +1,2 @@
 # my_programs
-Repository contains programs made by me. Some of them were made as a final projects for CS50 courses.
+Repository was made to present some of the programs made by me. If the name of a program starts with CS50, program was made as a assigment requaried to pass courses problem sets or as a final project of a specifict cours. 
